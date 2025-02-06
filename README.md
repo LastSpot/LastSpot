@@ -29,7 +29,7 @@
     
 - **Front-End Development**:
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,bootstrap,css)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,bootstrap,css,vite)](https://skillicons.dev)
 
 <br>
 
