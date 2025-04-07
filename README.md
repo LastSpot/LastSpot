@@ -16,9 +16,9 @@
 ## About Me
 
 - 🌟 Full-stack Developer proficient in:
-  - **Front-End**: React, Next.js, Vite
+  - **Front-End**: React, Next.js, Vite, Angular
   - **Back-End**: Node.js, FastAPI
-  - **Databases**: MongoDB, MySQL
+  - **Databases**: MongoDB, MySQL, PostgreSQL
   - **DevOps**: Docker, Google Cloud, AWS
   - **Generative AI**: ChatGPT, Gemini
 
