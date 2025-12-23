@@ -36,7 +36,7 @@ static const Profile michael = {
     .data_and_storage = {"PostgreSQL", "MongoDB", "Redis", "SQLAlchemy", "Drizzle"},
     .security_and_reliability = {"RBAC", "token encryption", "transactional integrity"},
     .tooling = {"Poetry", "pytest", "Alembic", "Docker"},
-    .deployment_and_platforms = {"Vercel", "Railway", "Render"},
+    .deployment_and_platforms = {"Vercel", "Railway", "Render", "GCP", "AWS"},
     .architecture = {"microservices", "event-driven"},
     .hobby = {"tennis", "badminton", "golf"}
 };
