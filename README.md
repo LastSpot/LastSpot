@@ -16,7 +16,7 @@ typedef struct {
 
     const char *pronouns[2];
 
-    const char *code[6];
+    const char *code[7];
     const char *frontend[3];
     const char *backend_and_systems[4];
     const char *data_and_storage[5];
@@ -30,7 +30,7 @@ typedef struct {
 static const Profile michael = {
     .name = "Michael",
     .pronouns = {"he", "him"},
-    .code = {"Python", "TypeScript", "JavaScript", "SQL", "C", "Java", "Rust},
+    .code = {"Python", "TypeScript", "JavaScript", "SQL", "C", "Java", "Rust"},
     .frontend = {"React Native", "React", "Next.js"},
     .backend_and_systems = {"FastAPI", "REST APIs", "async processing", "background workers"},
     .data_and_storage = {"PostgreSQL", "MongoDB", "Redis", "SQLAlchemy", "Drizzle"},
