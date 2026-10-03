@@ -30,13 +30,13 @@ typedef struct {
 static const Profile michael = {
     .name = "Michael",
     .pronouns = {"he", "him"},
-    .code = {"Python", "TypeScript", "JavaScript", "SQL", "C", "Java"},
+    .code = {"Python", "TypeScript", "JavaScript", "SQL", "C", "Java", "Rust},
     .frontend = {"React Native", "React", "Next.js"},
     .backend_and_systems = {"FastAPI", "REST APIs", "async processing", "background workers"},
     .data_and_storage = {"PostgreSQL", "MongoDB", "Redis", "SQLAlchemy", "Drizzle"},
     .security_and_reliability = {"RBAC", "token encryption", "transactional integrity"},
     .tooling = {"Poetry", "pytest", "Alembic", "Docker"},
-    .deployment_and_platforms = {"Vercel", "Railway", "Render", "GCP", "AWS"},
+    .deployment_and_platforms = {"Vercel", "Railway", "Render", "Google CLoud", "AWS"},
     .architecture = {"microservices", "event-driven"},
     .hobby = {"tennis", "badminton", "golf"}
 };
